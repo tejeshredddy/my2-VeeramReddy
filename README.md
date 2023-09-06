@@ -26,3 +26,5 @@ The best three places are:
 *  Shab Deg
 *  Dum Olav
 
+[About me](MyStats.md)
+
