@@ -36,3 +36,12 @@ The best three places are :
 | Cricket           | It improves focus and attention span greatly                 |  5 - 6 hours                |
 | Kho - Kho            | The objective of Kho Kho is to tag or hunt down an opponent and score points.                | 1-2 hours           |
 | Volleyball            | Improves the streching length ad helps in growth of height.                | 2-3 hours           |
+
+
+
+---
+
+# Quotes of Albert Einstein 
+>"Life is like riding a bicycle. To keep your balance, you must keep moving".
+
+> "_Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning_".
