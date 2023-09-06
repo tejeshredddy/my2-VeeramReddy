@@ -26,8 +26,8 @@ The best three places are :
 *  Shab Deg
 *  Dum Olav
 
-[About Me](MyStats.md)
-
+[About me](MyStats.md)
+\
 # My Favorite sports
 ---
 | Name of a sport.    | Reason to recomend it | Hours per week    | 
