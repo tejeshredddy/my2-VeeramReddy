@@ -27,7 +27,7 @@ The best three places are :
 *  Dum Olav
 
 [About me](MyStats.md)
-\
+
 # My Favorite sports
 ---
 | Name of a sport.    | Reason to recomend it | Hours per week    | 
@@ -45,3 +45,5 @@ The best three places are :
 >"Life is like riding a bicycle. To keep your balance, you must keep moving".
 
 > "_Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning_".
+
+---
